@@ -1,5 +1,4 @@
 # Lexical Analyzer
-### The Role of the Lexical Analyzer
 - Lexical analysis is the first phase of a compiler.
 - It converts the High level input program into a sequence of tokens, by removing any whitespace or comments in the source code.
 - In programming language, keywords, constants, identifiers, strings, numbers, operators and punctuations symbols can be considered as tokens.
