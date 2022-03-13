@@ -7,7 +7,7 @@
 <img width="60%" alt="lexical-analysis-process" src="http://quex.sourceforge.net/images/lexical-analysis-process.png">
 </p>
 
-### Example:
+### Demo:
 
 
 
